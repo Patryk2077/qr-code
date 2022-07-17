@@ -1,0 +1,11 @@
+body {background-color: hsl(212,45%,89%);}
+p {font-size: 15px;}
+.container {
+    background-color:white;
+    margin: 100px auto;
+    width: 400px;
+    padding: 20px;
+}
+.qr {
+    text-align: center;
+}
